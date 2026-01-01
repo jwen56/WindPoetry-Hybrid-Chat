@@ -71,7 +71,7 @@ The project consists of two core components:
 
 2.  **Installation**
     ```bash
-    git clone [https://github.com/YourUsername/WindPoetry-Hybrid-Chat.git](https://github.com/YourUsername/WindPoetry-Hybrid-Chat.git)
+    git clone [https://github.com/YourUsername/WindPoetry-Hybrid-Chat.git](https://github.com/jwen56/WindPoetry-Hybrid-Chat.git)
     cd WindPoetry-Hybrid-Chat
     
     # Install required library for API requests
@@ -205,7 +205,7 @@ The project consists of two core components:
 
 2.  **安装步骤**
     ```bash
-    git clone [https://github.com/YourUsername/WindPoetry-Hybrid-Chat.git](https://github.com/YourUsername/WindPoetry-Hybrid-Chat.git)
+    git clone [https://github.com/YourUsername/WindPoetry-Hybrid-Chat.git](https://github.com/jwen56/WindPoetry-Hybrid-Chat.git)
     cd WindPoetry-Hybrid-Chat
     
     # 安装必要的请求库
